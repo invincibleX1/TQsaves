@@ -1,0 +1,101 @@
+﻿{
+  "disabledtooltip": [],
+  "currentlyFocusedSackNumber": 0,
+  "currentlySelectedSackNumber": 0,
+  "sacks": [
+    {
+      "iconinfo": null,
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": -2,
+          "baseName": "records\\item\\equipmentarmor\\u_l_thoth'sshadow.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1768383842,
+          "pointX": 8,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": -2,
+          "baseName": "Records\\Item\\EquipmentArmor\\U_L_WyrmskinHarness.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 481552244,
+          "pointX": 13,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": -2,
+          "baseName": "Records\\Item\\EquipmentArmor\\U_L_FerrusGnosi.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1768383842,
+          "pointX": 16,
+          "pointY": 0
+        }
+      ]
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    }
+  ]
+}
