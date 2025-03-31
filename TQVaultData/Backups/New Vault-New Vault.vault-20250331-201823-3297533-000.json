@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -1130,81 +1130,6 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 19
-        },
-        {
-          "stackSize": 1,
-          "seed": 20717,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\US_E_004.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 17
-        },
-        {
-          "stackSize": 1,
-          "seed": 3059,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\US_E_004.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 18
-        },
-        {
-          "stackSize": 1,
-          "seed": 15771,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\US_E_004.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 18
-        },
-        {
-          "stackSize": 1,
-          "seed": 12988,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\US_E_004.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 18
-        },
-        {
-          "stackSize": 1,
-          "seed": 18103,
-          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Sword\\US_E_004.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 5,
-          "pointY": 17
         }
       ]
     },

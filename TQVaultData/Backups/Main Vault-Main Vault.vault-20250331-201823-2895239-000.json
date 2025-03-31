@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 7,
   "sacks": [
     {
       "iconinfo": null,
@@ -488,6 +488,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 10620,
+          "baseName": "Records\\Item\\EquipmentArmor\\US_E_Warrior'sPanoply.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 7
+        },
+        {
+          "stackSize": 1,
           "seed": 25340,
           "baseName": "records\\item\\equipmentarmor\\u_l_armorofachilles.dbr",
           "prefixName": "",
@@ -953,6 +968,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 15920,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\US_E_ShadowGuard.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 17,
+          "pointY": 11
+        },
+        {
+          "stackSize": 1,
           "seed": 32604,
           "baseName": "Records\\Item\\EquipmentAmulet\\U_L_Myrmidon'sPendant.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_ReducedEquipReq_01.dbr",
@@ -1025,111 +1055,6 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 10620,
-          "baseName": "Records\\Item\\EquipmentArmor\\US_E_Warrior'sPanoply.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 15920,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\US_E_ShadowGuard.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 20622,
-          "baseName": "Records\\Item\\EquipmentHelm\\US_E_ShadowGuard.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 14,
-          "pointY": 15
-        },
-        {
-          "stackSize": 1,
-          "seed": 31026,
-          "baseName": "Records\\Item\\EquipmentArmor\\US_E_ShadowGuard.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 14,
-          "pointY": 17
-        },
-        {
-          "stackSize": 1,
-          "seed": 9657,
-          "baseName": "Records\\Item\\EquipmentGreaves\\US_E_ShadowGuard.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 16,
-          "pointY": 18
-        },
-        {
-          "stackSize": 1,
-          "seed": 26980,
-          "baseName": "Records\\Item\\EquipmentArmband\\US_E_ShadowGuard.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 16,
-          "pointY": 16
-        },
-        {
-          "stackSize": 1,
-          "seed": 14025,
-          "baseName": "records\\item\\equipmentshield\\us_e_shadowguard.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 16,
-          "pointY": 14
         }
       ]
     },
@@ -1645,6 +1570,21 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 0
+        },
+        {
+          "stackSize": 3,
+          "seed": 15365,
+          "baseName": "records\\xpack3\\items\\miscellaneous\\oneshot\\potionxp_legendary.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 18
         },
         {
           "stackSize": 2,
@@ -2185,21 +2125,6 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 7
-        },
-        {
-          "stackSize": 3,
-          "seed": 15365,
-          "baseName": "records\\xpack3\\items\\miscellaneous\\oneshot\\potionxp_legendary.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 15,
-          "pointY": 18
         }
       ]
     },
@@ -5767,7 +5692,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1541533760,
           "pointX": 0,
           "pointY": 4
         },
@@ -5782,7 +5707,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 0,
           "pointY": 8
         },
@@ -5797,7 +5722,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1541533760,
           "pointX": 2,
           "pointY": 6
         },
@@ -5812,7 +5737,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 208,
           "pointX": 0,
           "pointY": 10
         }
