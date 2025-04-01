@@ -1768,21 +1768,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 32604,
-          "baseName": "Records\\Item\\EquipmentAmulet\\U_L_Myrmidon'sPendant.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_ReducedEquipReq_01.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_03.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
           "seed": 8927,
           "baseName": "Records\\Item\\EquipmentRing\\U_N_Captain'sSignet.dbr",
           "prefixName": "",
@@ -2167,7 +2152,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 7
         },
@@ -2182,7 +2167,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 4
         },
@@ -5937,7 +5922,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1811542080,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 10
         },
@@ -5952,7 +5937,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1541533760,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 13
         },
@@ -5967,7 +5952,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1541533760,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 13
         },
@@ -5982,7 +5967,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1822552128,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 12
         },
@@ -5997,7 +5982,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1811542080,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 11
         }

@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -578,21 +578,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 11652,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\US_E_002.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_02.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_02.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 11
-        },
-        {
-          "stackSize": 1,
           "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_L_Thyestes'Scheme.dbr",
           "prefixName": "",
@@ -635,21 +620,6 @@
           "var2": 2035248,
           "pointX": 5,
           "pointY": 11
-        },
-        {
-          "stackSize": 1,
-          "seed": -2,
-          "baseName": "Records\\Item\\EquipmentShield\\U_L_AthenasMirroredShield.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 5,
-          "pointY": 13
         },
         {
           "stackSize": 1,
@@ -769,21 +739,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 15
-        },
-        {
-          "stackSize": 1,
-          "seed": -2,
-          "baseName": "Records\\Item\\EquipmentGreaves\\U_E_Athena'sBattleGreaves.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
           "pointY": 15
         },
         {
@@ -1014,21 +969,6 @@
         {
           "stackSize": 1,
           "seed": -2,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Amulet\\U_E_003.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 15,
-          "pointY": 16
-        },
-        {
-          "stackSize": 1,
-          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Amulet\\U_L_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -1100,21 +1040,6 @@
           "var2": 2035248,
           "pointX": 3,
           "pointY": 17
-        },
-        {
-          "stackSize": 1,
-          "seed": 9126,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Ring\\U_E_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 15,
-          "pointY": 19
         },
         {
           "stackSize": 1,
@@ -1585,6 +1510,36 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 11962,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_L_AphroditesFavor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 0,
+          "pointX": 16,
+          "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 7416,
+          "baseName": "Records\\Item\\EquipmentRing\\U_N_Captain'sSignet.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_HonorGuards_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_RegenLife_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1768383842,
+          "pointX": 17,
+          "pointY": 13
         }
       ]
     },
