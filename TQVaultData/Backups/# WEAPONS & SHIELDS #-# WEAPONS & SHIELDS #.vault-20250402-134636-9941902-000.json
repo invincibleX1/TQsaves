@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 8,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -774,6 +774,21 @@
         {
           "stackSize": 1,
           "seed": -2,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Sword\\U_L_002.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 17,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_L_Thyestes'Scheme.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -1010,21 +1025,6 @@
           "var2": 2035248,
           "pointX": 11,
           "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": -2,
-          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Sword\\U_L_002.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 17,
-          "pointY": 0
         }
       ]
     },
@@ -3724,6 +3724,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": -2,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Bow\\U_L_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 3,
           "pointY": 4
         },
         {
@@ -6945,6 +6960,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 27898,
+          "baseName": "records\\xpack\\item\\equipmentweapons\\shield\\u_l_002.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 9
         },
         {
           "stackSize": 1,

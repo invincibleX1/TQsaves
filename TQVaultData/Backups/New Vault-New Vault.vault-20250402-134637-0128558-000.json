@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": null,
@@ -789,6 +789,21 @@
         {
           "stackSize": 1,
           "seed": -2,
+          "baseName": "Records\\Item\\EquipmentRing\\U_E_Chiron'sLoop.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 17,
+          "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentRing\\U_L_Apollo'sWill.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistCold_02.dbr",
           "suffixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Suffix\\Default\\Defensive_ResistSlow_01.dbr",
@@ -815,6 +830,21 @@
           "var2": 2035248,
           "pointX": 17,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 27164,
+          "baseName": "Records\\Item\\EquipmentRing\\U_L_BandofSouls.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_RegenLife_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 15
         },
         {
           "stackSize": 1,
