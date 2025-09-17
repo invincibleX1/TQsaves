@@ -982,6 +982,21 @@
           "pointY": 17
         },
         {
+          "stackSize": 384,
+          "seed": 2682,
+          "baseName": "records\\xpack3\\items\\miscellaneous\\oneshot\\potionxp_legendary.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 7,
+          "pointY": 12
+        },
+        {
           "stackSize": 1,
           "seed": 30305,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\US_E_002.dbr",
@@ -1085,21 +1100,6 @@
           "var2": 2035248,
           "pointX": 5,
           "pointY": 17
-        },
-        {
-          "stackSize": 384,
-          "seed": 2682,
-          "baseName": "records\\xpack3\\items\\miscellaneous\\oneshot\\potionxp_legendary.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 7,
-          "pointY": 12
         }
       ]
     },
