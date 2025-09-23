@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": null,
@@ -3345,51 +3345,6 @@
           "var2": 2035248,
           "pointX": 11,
           "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 7757,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\US_E_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 14
-        },
-        {
-          "stackSize": 1,
-          "seed": 17218,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\US_E_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 14
-        },
-        {
-          "stackSize": 1,
-          "seed": 477,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\US_E_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 14
         },
         {
           "stackSize": 1,
